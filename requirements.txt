@@ -1,0 +1,5 @@
+tensorflow==2.12.0
+tf-keras
+deepface
+opencv-python
+speechrecognition
